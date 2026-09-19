@@ -1,11 +1,11 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/backend/03_postgresql_sqlalchemy/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/04_user_crud_migrations/.venv/bin/python",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend/03_postgresql_sqlalchemy"
+    "${workspaceFolder}/backend/04_user_crud_migrations"
   ],
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/backend/03_postgresql_sqlalchemy",
+  "python.testing.cwd": "${workspaceFolder}/backend/04_user_crud_migrations",
   "python.testing.pytestArgs": [
     "tests"
   ],
