@@ -1,11 +1,11 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/backend/01_fastapi_basics/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/02_layered_architecture/.venv/bin/python",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend/01_fastapi_basics"
+    "${workspaceFolder}/backend/02_layered_architecture"
   ],
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/backend/01_fastapi_basics",
+  "python.testing.cwd": "${workspaceFolder}/backend/02_layered_architecture",
   "python.testing.pytestArgs": [
     "tests"
   ],
