@@ -1,11 +1,11 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/backend/04_user_crud_migrations/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/05_jwt_authentication/.venv/bin/python",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend/04_user_crud_migrations"
+    "${workspaceFolder}/backend/05_jwt_authentication"
   ],
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/backend/04_user_crud_migrations",
+  "python.testing.cwd": "${workspaceFolder}/backend/05_jwt_authentication",
   "python.testing.pytestArgs": [
     "tests"
   ],
