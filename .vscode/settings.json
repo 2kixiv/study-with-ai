@@ -1,11 +1,11 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/backend/06_posts_relationships/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/devops/01_docker_image/.venv/bin/python",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend/06_posts_relationships"
+    "${workspaceFolder}/devops/01_docker_image"
   ],
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/backend/06_posts_relationships",
+  "python.testing.cwd": "${workspaceFolder}/devops/01_docker_image",
   "python.testing.pytestArgs": [
     "tests"
   ],
