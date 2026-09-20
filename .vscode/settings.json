@@ -1,11 +1,11 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/backend/05_jwt_authentication/.venv/bin/python",
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/06_posts_relationships/.venv/bin/python",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/backend/05_jwt_authentication"
+    "${workspaceFolder}/backend/06_posts_relationships"
   ],
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
-  "python.testing.cwd": "${workspaceFolder}/backend/05_jwt_authentication",
+  "python.testing.cwd": "${workspaceFolder}/backend/06_posts_relationships",
   "python.testing.pytestArgs": [
     "tests"
   ],
